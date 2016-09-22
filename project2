@@ -1,0 +1,4 @@
+fWithholding = grossPay * fRate
+sWithholding = grossPay * sRate
+totalDeductions = fWithholding + sWithholding
+netPay = grossPay - totalDeductions
