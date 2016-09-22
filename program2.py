@@ -34,9 +34,3 @@ print("\tTotal Deductions:    $" + str(totalDeductions))
 
 netPay = "%.2f" % (float(grossPay) - float(totalDeductions))
 print("Net Pay: $" + str(netPay))
-
-
-
-      
-
-
